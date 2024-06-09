@@ -1,0 +1,2 @@
+# fpgrowth
+ANALISIS DATA
